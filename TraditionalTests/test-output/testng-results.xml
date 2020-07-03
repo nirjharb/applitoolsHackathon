@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28064" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:42 IST">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="21231" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:35 IST">
+      <class name="traditional_test_v1.TraditionalTestsV1">
+        <test-method status="PASS" signature="TraditionalTestsV1(java.lang.String)[pri:0, instance:traditional_test_v1.TraditionalTestsV1@72b6cbcc]" name="TraditionalTestsV1" duration-ms="21189" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraditionalTestsV1 -->
+      </class> <!-- traditional_test_v1.TraditionalTestsV1 -->
+    </test> <!-- chromeTest -->
+    <test name="edgeTest" duration-ms="21925" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:36 IST">
+      <class name="traditional_test_v1.TraditionalTestsV1">
+        <test-method status="PASS" signature="TraditionalTestsV1(java.lang.String)[pri:0, instance:traditional_test_v1.TraditionalTestsV1@9660f4e]" name="TraditionalTestsV1" duration-ms="21893" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraditionalTestsV1 -->
+      </class> <!-- traditional_test_v1.TraditionalTestsV1 -->
+    </test> <!-- edgeTest -->
+    <test name="firefoxTest" duration-ms="22073" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:36 IST">
+      <class name="traditional_test_v1.TraditionalTestsV1">
+        <test-method status="PASS" signature="TraditionalTestsV1(java.lang.String)[pri:0, instance:traditional_test_v1.TraditionalTestsV1@65e2dbf3]" name="TraditionalTestsV1" duration-ms="22042" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraditionalTestsV1 -->
+      </class> <!-- traditional_test_v1.TraditionalTestsV1 -->
+    </test> <!-- firefoxTest -->
+    <test name="tablettest" duration-ms="27553" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:41 IST">
+      <class name="traditional_test_v1.TraditionalTestsV1">
+        <test-method status="PASS" signature="TraditionalTestsV1(java.lang.String)[pri:0, instance:traditional_test_v1.TraditionalTestsV1@2a17b7b6]" name="TraditionalTestsV1" duration-ms="27522" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tablet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraditionalTestsV1 -->
+      </class> <!-- traditional_test_v1.TraditionalTestsV1 -->
+    </test> <!-- tablettest -->
+    <test name="mobiletest" duration-ms="28064" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:42 IST">
+      <class name="traditional_test_v1.TraditionalTestsV1">
+        <test-method status="PASS" signature="TraditionalTestsV1(java.lang.String)[pri:0, instance:traditional_test_v1.TraditionalTestsV1@1c3a4799]" name="TraditionalTestsV1" duration-ms="28033" started-at="2020-07-04T01:19:14 IST" finished-at="2020-07-04T01:19:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraditionalTestsV1 -->
+      </class> <!-- traditional_test_v1.TraditionalTestsV1 -->
+    </test> <!-- mobiletest -->
+  </suite> <!-- Suite -->
+</testng-results>

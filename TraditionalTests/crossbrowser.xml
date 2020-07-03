@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests"> <!-- parallel="tests"-->
+  <test thread-count="5" name="firefoxTest">
+  <parameter name="browser" value="firefox"></parameter>
+  <classes>
+    <class name="traditional_test_v1.TraditionalTestsV1"/>
+  </classes>
+  </test> 
+  <test thread-count="5" name="chromeTest">
+  <parameter name="browser" value="chrome"></parameter>
+  <classes>
+    <class name="traditional_test_v1.TraditionalTestsV1"/>
+  </classes>
+  </test>
+  <test thread-count="5" name="edgeTest">
+  <parameter name="browser" value="edge"></parameter>
+  <classes>
+    <class name="traditional_test_v1.TraditionalTestsV1"/>
+  </classes>
+  </test>
+  <test thread-count="5" name="tablettest">
+  <parameter name="browser" value="tablet"></parameter>
+  <classes>
+    <class name="traditional_test_v1.TraditionalTestsV1"/>
+  </classes>
+  </test> 
+  <test thread-count="5" name="mobiletest">
+  <parameter name="browser" value="mobile"></parameter>
+  <classes>
+    <class name="traditional_test_v1.TraditionalTestsV1"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
