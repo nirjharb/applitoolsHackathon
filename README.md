@@ -1,4 +1,9 @@
 # applitoolsHackathon
+
+Hello!
+
+I trust the entire team of Applitools is  doing some great work!!
+
 As mentioned in the instructions under https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions/, the code has been written under one folder for traditional test. There are two src files viz. TraditionalTestsV1.java and TraditionalTestsV2.java. 
 
 TraditionalTests : Video URL showing the automation : https://www.screencast.com/t/pJ4Sk4TyK5zD
