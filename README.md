@@ -2,7 +2,7 @@
 
 Hello!
 
-I trust the entire team of Applitools is  doing some great work!!
+I trust the entire team of Applitools is  doing some great work. Thank you very much for organizing this hackathon. Learnt a lot which I haven't tried before :) Selenium, Maven, TestNG and then this magical Applitools UltrafastGrid!!. It really pulled my 20+ hours of work to ~2.5hours. Fantasctic! 
 
 As mentioned in the instructions under https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions/, the code has been written under one folder for traditional test. There are two src files viz. TraditionalTestsV1.java and TraditionalTestsV2.java. 
 
